@@ -3,9 +3,13 @@ Community Channel
 - Discord: https://discord.gg/KR2rR8RBT5
 - Server Website: https://playmakermc.github.io/catfoodmc-wiki/index.html
 
+## Collaborator
+- Xentella Online เซิร์ฟเวอร์เพื่อนบ้านผู้น่ารัก: https://store.xentella.online/
+- Discord อาหารแมว คอมมู genshin impact แถมบริการดีๆต่างให้มากมาย: https://discord.gg/hCjdm4uUFH
+
 ## Server Link
 ช่องทางต่างๆ
-- ระบบเติมเงิน: N/A
+- ระบบเติมเงิน: N/A 
 
 ## Developer Feed
 ข่าวสารจากผู้พัฒนา
