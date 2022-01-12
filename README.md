@@ -5,7 +5,7 @@ Community Channel
 
 ## Collaborator
 - Xentella Online เซิร์ฟเวอร์เพื่อนบ้านผู้น่ารัก: https://store.xentella.online/
-- Discord อาหารแมว คอมมู genshin impact แถมบริการดีๆต่างให้มากมาย: https://discord.gg/hCjdm4uUFH
+- Discord อาหารแมว คอมมู genshin impact แถมบริการดีๆต่างๆให้อีกมากมาย: https://discord.gg/hCjdm4uUFH
 
 ## Server Link
 - ระบบเติมเงิน: N/A 
