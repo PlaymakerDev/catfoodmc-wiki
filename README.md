@@ -1,7 +1,7 @@
 # Welcome to CatFoodMC Wiki
 Community Channel
 - Discord: https://discord.gg/KR2rR8RBT5
-- Server Website: https://pornetwork2014.github.io/catfoodmc-wiki/index.html
+- Server Website: https://PlaymakerDev.github.io/catfoodmc-wiki/index.html
 
 ## Collaborator
 - Xentella Online เซิร์ฟเวอร์เพื่อนบ้านผู้น่ารัก: https://store.xentella.online/
