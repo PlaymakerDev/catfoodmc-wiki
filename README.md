@@ -18,3 +18,6 @@ Community Channel
 
 ## Project Status
 - On hold
+
+## Resource
+- https://www.tooplate.com/view/2119-gymso-fitness
